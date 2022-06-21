@@ -1,0 +1,5 @@
+GalleryParentFolder @ "C:\Users\lakizadeh\Desktop\lakizadeh\offlineRecognition/OriginalGallery"
+videoFilesFolder @ "C:\Users\lakizadeh\Desktop\lakizadeh\offlineRecognition/Videos"
+newGallery @ False
+distanceThr @ 0.35
+frameStep @ 5
